@@ -1,0 +1,2 @@
+# Tesztrepo
+Tanulásra Github
